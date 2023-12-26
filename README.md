@@ -28,7 +28,7 @@ This repository hosts a comprehensive Power BI dashboard focused on visualizing 
 The dashboard utilizes data from reputable sources such as WHO, CDC, Johns Hopkins University, and other verified databases to ensure accuracy and reliability.
 Access the excel file from here -
 
-[Covid_excel]([owid-covid-data.xlsx](https://github.com/VaibhavThalal/PBI_Covid_19_Project1V/blob/main/owid-covid-data.xlsx))
+[owid-covid-data.xlsx](owid-covid-data.xlsx)
 
 ## **🚀 How to Use:**
 
